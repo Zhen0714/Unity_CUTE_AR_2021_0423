@@ -1,0 +1,125 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.5f1 (8095aa901b9b) revision 8426922'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.928; Version 2009; 64bit' Language: 'zh' Physical Memory: 16238 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\2020.3.5f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/GitHub_Zhen/Unity_CUTE_AR_2021_0423/Unity_CUTE_AR_2021_0423/AR
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+9514
+Successfully changed project path to: C:/GitHub_Zhen/Unity_CUTE_AR_2021_0423/Unity_CUTE_AR_2021_0423/AR
+C:/GitHub_Zhen/Unity_CUTE_AR_2021_0423/Unity_CUTE_AR_2021_0423/AR
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 22.75 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.5f1 (8095aa901b9b)
+[Subsystems] Discovering subsystems at path D:/2020.3.5f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/GitHub_Zhen/Unity_CUTE_AR_2021_0423/Unity_CUTE_AR_2021_0423/AR/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1060 (ID=0x1c20)
+    Vendor:   
+    VRAM:     6052 MB
+    Driver:   27.21.14.5167
+Initialize mono
+Mono path[0] = 'D:/2020.3.5f1/Editor/Data/Managed'
+Mono path[1] = 'D:/2020.3.5f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/2020.3.5f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56184
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/2020.3.5f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/2020.3.5f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001265 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 23.02 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.872 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000666 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.759 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1115 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.0 MB.
+System memory in use after: 57.1 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1558.
+Total: 1.725400 ms (FindLiveObjects: 0.119000 ms CreateObjectMapping: 0.030300 ms MarkObjects: 1.518900 ms  DeleteObjects: 0.056300 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/天空.mat
+  artifactKey: Guid(d688ada43048e2a45b39cc707d08278b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/天空.mat using Guid(d688ada43048e2a45b39cc707d08278b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ca4a291e21b4a372b038530739edc69') in 0.713322 seconds
+  Import took 0.715842 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.096692 seconds.
+  path: Assets/拍照.unity
+  artifactKey: Guid(877593e97a5b3e74088415cb61948ff8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/拍照.unity using Guid(877593e97a5b3e74088415cb61948ff8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e97a9cdeaee93da2eec2942c83d2c389') in 0.008446 seconds
+  Import took 0.010771 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010016 seconds.
+  path: Assets/拍照.unity
+  artifactKey: Guid(877593e97a5b3e74088415cb61948ff8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/拍照.unity using Guid(877593e97a5b3e74088415cb61948ff8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e97a9cdeaee93da2eec2942c83d2c389') in 0.003062 seconds
+  Import took 0.005510 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 908.037581 seconds.
+  path: Assets/天空.mat
+  artifactKey: Guid(d688ada43048e2a45b39cc707d08278b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/天空.mat using Guid(d688ada43048e2a45b39cc707d08278b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc757ac70c8b45bd5c3f2b39e5bce134') in 0.028769 seconds
+  Import took 0.031356 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001043 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.859 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1110 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.2 MB.
+System memory in use after: 60.3 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1603.
+Total: 1.850400 ms (FindLiveObjects: 0.118600 ms CreateObjectMapping: 0.032000 ms MarkObjects: 1.666500 ms  DeleteObjects: 0.032100 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
